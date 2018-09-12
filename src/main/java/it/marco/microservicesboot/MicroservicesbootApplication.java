@@ -1,8 +1,8 @@
-package it.dstech.microservicesboot;
+package it.marco.microservicesboot;
 
-import it.dstech.microservicesboot.repositories.TeamRepository;
-import it.dstech.microservicesboot.models.Player;
-import it.dstech.microservicesboot.models.Team;
+import it.marco.microservicesboot.repositories.TeamRepository;
+import it.marco.microservicesboot.models.Player;
+import it.marco.microservicesboot.models.Team;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

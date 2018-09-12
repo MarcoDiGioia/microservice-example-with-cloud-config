@@ -1,6 +1,6 @@
-package it.dstech.microservicesboot.repositories;
+package it.marco.microservicesboot.repositories;
 
-import it.dstech.microservicesboot.models.Team;
+import it.marco.microservicesboot.models.Team;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.rest.core.annotation.RestResource;
 

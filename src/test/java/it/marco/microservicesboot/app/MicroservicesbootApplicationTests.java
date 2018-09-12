@@ -1,4 +1,4 @@
-package it.dstech.microservicesboot.app;
+package it.marco.microservicesboot.app;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

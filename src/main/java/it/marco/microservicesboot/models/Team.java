@@ -1,4 +1,4 @@
-package it.dstech.microservicesboot.models;
+package it.marco.microservicesboot.models;
 
 import javax.persistence.*;
 
